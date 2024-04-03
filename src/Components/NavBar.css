@@ -1,0 +1,11 @@
+
+.Nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cadetblue;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    
+    
+}
